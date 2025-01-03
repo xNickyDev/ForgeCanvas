@@ -13,4 +13,4 @@ declare const _default: NativeFunction<[{
     rest: true;
 }], true>;
 export default _default;
-//# sourceMappingURL=createGif.d.ts.map
+//# sourceMappingURL=createGIF.d.ts.map

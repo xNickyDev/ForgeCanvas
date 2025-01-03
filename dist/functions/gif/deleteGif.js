@@ -4,7 +4,7 @@ const forgescript_1 = require("@tryforge/forgescript");
 exports.default = new forgescript_1.NativeFunction({
     name: '$deleteGIF',
     description: 'Deletes the GIF.',
-    version: '1.1.0',
+    version: '1.2.0',
     brackets: true,
     unwrap: true,
     args: [
@@ -21,4 +21,4 @@ exports.default = new forgescript_1.NativeFunction({
         return this.success();
     }
 });
-//# sourceMappingURL=deleteGif.js.map
+//# sourceMappingURL=deleteGIF.js.map
